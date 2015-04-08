@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <broker>192.168.56.101</broker>
+  <username>guest</username>
+  <password>guest</password>
+  <exchangeName>my-exchange</exchangeName>
+  <queueName>my-errors-queue</queueName>
+</configuration>
